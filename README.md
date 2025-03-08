@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zihao Zhu
 - 👀 I’m interested in robotics, AI.
-- 🌱 I’m currently learning reinforcement learning.
+- 🌱 I’m currently learning how to study.
 - 📫 How to reach me: zihaozhu@stanford.edu
 - ⚡ Fun fact: I'm the most boring guy in the world.
 
